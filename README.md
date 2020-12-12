@@ -3,6 +3,11 @@
 This is an active repository where we will upload general programming problems for you to work on over the winter break.
 These problems will be language neutral (so you can complete them in any language), but we might recommend certain languages so that you can get experience working in them.
 
+## Problem upload order
+
+1. FizzBuzz
+2. Babelfish
+
 ## Instructions
 1. Start by forking [*this repository*](https://github.com/LeTourneau-ACM/winter-break-projects) (click the button that says fork) so that you will have a custom version to work on. A fork is just a copy of a repository for you to edit. This forked repository belongs to you and is where you will do your work.
 
