@@ -7,6 +7,7 @@ These problems will be language neutral (so you can complete them in any languag
 
 1. FizzBuzz
 2. Babelfish
+3. Goldbach's Conjecture
 
 ## Instructions
 1. Start by forking [*this repository*](https://github.com/LeTourneau-ACM/winter-break-projects) (click the button that says fork) so that you will have a custom version to work on. A fork is just a copy of a repository for you to edit. This forked repository belongs to you and is where you will do your work.
